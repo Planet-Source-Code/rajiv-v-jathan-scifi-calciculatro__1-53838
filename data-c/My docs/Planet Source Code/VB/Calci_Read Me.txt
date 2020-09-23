@@ -1,0 +1,15 @@
+Hi friends,this is a scientific calculator designed and developed by Rajiv V Jathan 
+actually this is the upgraded version of the Scientific calculator created by my own my friend Priyank R Panchal.
+We enjoy doing such stuffs. 
+Right now we are working on a project for a small firm.
+
+
+This calculator is not perfect i accept that.Currently it can  perform operations with two operands only (a+b and not a+b+c).So please mail some feedback on this calculator  
+to rajiv_load@yahoo.co.in
+hope u enjoyed it.............
+
+I thank alot to Planet-Source-Code.com...the home millions of lines of source code
+which helps in retriving free codes and also upload the same.
+
+
+
